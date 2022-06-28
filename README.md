@@ -1,2 +1,2 @@
 # project1
-brushless motor
+servo motor
